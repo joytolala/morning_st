@@ -1,6 +1,8 @@
 morning_st
 ==========
 
-this is first time.
-good morning Everyone.
-but,I'm tired.
+This is first time.
+Good morning Everyone.
+But,I'm tired.
+
+Why cannot PUSH on Git?
